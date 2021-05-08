@@ -3,7 +3,10 @@
 <!--
 **MathewChanda/MathewChanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, my name is Mathew Chanda, a rising junior studying computer science at North Carolina State University! 
+
+
+What I’m up to 🤔: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
