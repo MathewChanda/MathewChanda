@@ -2,7 +2,7 @@
 
 Hello, my name is Mathew Chanda, a rising junior studying computer science 👨‍💻 at North Carolina State University 🐺! I'm experienced in Full Stack Development, Mobile Development, and DevOps. 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=MathewChanda&color=blue)
 
 #### [Website](https://www.mattchanda.me/) - [Email](mailto:mvchanda@ncsu.edu) - [LinkedIn](https://www.linkedin.com/in/mathewchandancsu/) - [Twitter](https://twitter.com/mathew_chanda)
 
