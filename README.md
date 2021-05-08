@@ -2,6 +2,7 @@
 
 Hello, my name is Mathew Chanda, a rising junior studying computer science 👨‍💻 at North Carolina State University 🐺! I'm experienced in Full Stack Development, Mobile Development, and DevOps. 
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 #### [Website](https://www.mattchanda.me/) - [Email](mailto:mvchanda@ncsu.edu) - [LinkedIn](https://www.linkedin.com/in/mathewchandancsu/) - [Twitter](https://twitter.com/mathew_chanda)
 
@@ -10,7 +11,7 @@ Hello, my name is Mathew Chanda, a rising junior studying computer science 👨�
 - Building a tool called [PackRanks](https://www.packranks.com/) to find easy classes at NC State to boost my GPA 📚📝
 - Investing into Dogecoin to become millionaire💵
 - Learning how to build IOS App  📱
-- Eating Chiplote 🌯
+- Eating two Chipotle Burittos as a snack 🌯
 
 ## Previous Work Experience 👷‍♂️:  
 - Cisco Webex 🎥 - Jan 2021 to April 2021 
