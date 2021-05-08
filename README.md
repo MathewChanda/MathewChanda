@@ -16,5 +16,5 @@ Hello, my name is Mathew Chanda, a rising junior studying computer science 👨�
 - Trying to get into YC with my pet projects 💼
 - Learning how to build IOS App   📱
 - Defeating Ender Dragon in Minecraft ⚔️🐉
--- Investing into Dogecoin to become millionaire 💵📉
+- Investing into Dogecoin to become millionaire 🚀📉
 
