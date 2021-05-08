@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello World 👋
 
 Hello, my name is Mathew Chanda, a rising junior studying computer science at North Carolina State University! 
 
