@@ -5,6 +5,7 @@
 Hello, my name is Mathew Chanda, a rising junior studying computer science at North Carolina State University ! I'm experienced in Full Stack Development, Mobile Development, and DevOps. 
 
 ## Work Experience 👨‍💻
+- Tesla Motors 🔋 - May 2021 to Current 
 - Cisco Webex 🎥 - Jan 2021 to April 2021 
 - LexisNexis 📇 - Aug 2020 to Dec 2020
 
