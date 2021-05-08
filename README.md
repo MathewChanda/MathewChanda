@@ -3,7 +3,7 @@
 Hello, my name is Mathew Chanda, a rising junior studying computer science at North Carolina State University! 
 
 
-##What I’m up to 🤔: 
+## What I’m up to 🤔: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
