@@ -10,6 +10,6 @@ Hello, my name is Mathew Chanda, a rising junior studying computer science 👨�
 - Investing into Dogecoin instead of ETFs 📈💵
 - Learning how to build IOS App  📱
 
-## Work Experience: 
-- Cisco Webex - Jan 2021 to April 2021 
-- LexisNexis 
+## Previous Work Experience 👷‍♂️:  
+- Cisco Webex 🎥 - Jan 2021 to April 2021 
+- LexisNexis 📇 - Aug 2020 to Dec 2020
