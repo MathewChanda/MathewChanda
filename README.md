@@ -6,7 +6,7 @@ Hello, my name is Mathew Chanda, a rising junior studying computer science 👨�
 
 ![](https://komarev.com/ghpvc/?username=MathewChanda&color=blue)
 
-## Previous Work Experience 👷‍♂️  
+## Work Experience 👷‍♂️  
 - Cisco Webex 🎥 - Jan 2021 to April 2021 
 - LexisNexis 📇 - Aug 2020 to Dec 2020
 
