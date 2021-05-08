@@ -14,4 +14,4 @@ Hello, my name is Mathew Chanda, a rising junior studying computer science 👨�
 - Cisco Webex 🎥 - Jan 2021 to April 2021 
 - LexisNexis 📇 - Aug 2020 to Dec 2020
 
-Feel free to reach out to me through phone at 336-494-8638 or email me at mvchanda@ncsu.edu or 
+Feel free to reach out to me through phone at 336-494-8638 or email me at mvchanda@ncsu.edu 
