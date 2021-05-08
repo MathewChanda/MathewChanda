@@ -1,6 +1,6 @@
 # Hello World 👋
 
-Hello, my name is Mathew Chanda, a rising junior studying computer science 👨‍💻 at North Carolina State University 🐺! I'm experienced in Full Stack Development, Mobile Development, and DevOps. 
+Hello, my name is Mathew Chanda, a rising junior studying computer science 👨‍💻 at North Carolina State University 🐺 ! I'm experienced in Full Stack Development, Mobile Development, and DevOps. 
 
 ![](https://komarev.com/ghpvc/?username=MathewChanda&color=blue)
 
