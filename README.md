@@ -1,7 +1,6 @@
 # Hello World 👋
 
-Hello, my name is Mathew Chanda, a rising junior studying computer science 👨‍💻 at North Carolina State University! 
-
+Hello, my name is Mathew Chanda, a rising junior studying computer science 👨‍💻 at North Carolina State University! I'm experienced in Full Stack Development, Mobile Development, and DevOps. 
 
 ## What I’m up to 🤔: 
 
