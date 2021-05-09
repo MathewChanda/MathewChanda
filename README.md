@@ -13,7 +13,7 @@ Hello, my name is Mathew Chanda, a rising junior studying computer science at No
 - Interning at Tesla as a software engineer intern in Summer 2021 🏎⚡️
 - Building a tool called [PackRanks](https://www.packranks.com/) to find easy classes at NC State to boost my GPA 📚📝
 - Trying to get into Y Combinator with my pet projects 💼
-- Learning how to build IOS App to make passive income   📱
+- Learning how to build IOS App to make next FaceBook   📱
 - Defeating Ender Dragon in Minecraft 🐉 ⚔️
 - Investing into Dogecoin to become millionaire 🚀📉
 
