@@ -17,4 +17,4 @@ Hello, my name is Mathew Chanda, a rising junior studying computer science at No
 - Defeating Ender Dragon in Minecraft 🐉 ⚔️
 - Investing into Dogecoin to become millionaire 🚀📉
 
-Feel free to reach out to me for future opportunities through email at mvchanda@ncsu.edu or phone number at (336)-494-8638
+Feel free to reach out to me for future cool <s>lucrative</s> opportunities through email at mvchanda@ncsu.edu or phone number at (336)-494-8638
