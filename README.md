@@ -5,12 +5,11 @@
 Hello, my name is Mathew Chanda, a rising junior studying computer science at North Carolina State University! I'm experienced in Full Stack Development, Mobile Development, and DevOps. 
 
 ## Work Experience 👨‍💻
-- Tesla Motors 🔋 - May 2021 to Current 
+- Tesla Motors 🔋 - May 2021 to Aug 2021 
 - Cisco Webex 🎥 - Jan 2021 to April 2021 
 - LexisNexis 📇 - Aug 2020 to Dec 2020
 
 ## What I’m up to 🏃‍♂️ 
-- Interning at Tesla as a software engineer intern in Summer 2021 🏎⚡️
 - Building a tool called [PackRanks](https://www.packranks.com/) to find easy classes at NC State to boost my GPA 📚📝
 - Laughing at memes with friends like this [one](https://drive.google.com/file/d/1IYpZAW8JU6iND1P8MjTtMIucQua-GMsH/view?usp=sharing) 😂👀
 - Trying to get into Y Combinator with my pet projects 💼
