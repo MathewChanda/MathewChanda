@@ -11,7 +11,7 @@ Hello, my name is Mathew Chanda, a rising junior studying computer science at No
 
 ## What I’m up to 🏃‍♂️ 
 - Building a tool called [PackRanks](https://www.packranks.com/) to find easy classes at NC State to boost my GPA 📚📝
-- Laughing at memes with friends like this [one](https://drive.google.com/file/d/1IYpZAW8JU6iND1P8MjTtMIucQua-GMsH/view?usp=sharing) 😂👀
+- Laughing at memes with friends like this [one](https://drive.google.com/file/d/1IYpZAW8JU6iND1P8MjTtMIucQua-GMsH/view?usp=sharing) 😂 👀
 - Trying to get into Y Combinator with my pet projects 💼
 - Learning how to build IOS App to make next FaceBook   📱
 - Defeating Ender Dragon in Minecraft 🐉 ⚔️
