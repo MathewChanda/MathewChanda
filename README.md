@@ -5,6 +5,7 @@
 Hello, my name is Mathew Chanda, a rising junior studying computer science at North Carolina State University! I'm experienced in Full Stack Development, Mobile Development, and DevOps. 
 
 ## Work Experience 👨‍💻
+- Linkedin 👥 - May 2023 to Aug 2023
 - Coinbase 🪙 - Aug 2022 to Dec 2022 
 - Apple  - May 2022 to Aug 2022 
 - Tesla Motors 🔋 - May 2021 to Aug 2021 
