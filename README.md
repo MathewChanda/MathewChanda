@@ -2,7 +2,7 @@
 
 #### [Website](https://www.mattchanda.me/) - [Email](mailto:mvchanda@ncsu.edu) - [LinkedIn](https://www.linkedin.com/in/mathewchandancsu/) - [Twitter](https://twitter.com/mathew_chanda) 
 
-Hello, my name is Mathew Chanda, a rising junior studying computer science at North Carolina State University! I'm experienced in Full Stack Development, Mobile Development, and DevOps. 
+Hello, my name is Mathew Chanda, a senior studying computer science at North Carolina State University! I'm experienced in Full Stack Development, Mobile Development, and DevOps. 
 
 ## Work Experience 👨‍💻
 - Google 💻 - Aug 2023 to Nov 2023 
